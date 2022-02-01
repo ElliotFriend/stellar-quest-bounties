@@ -6,6 +6,18 @@ Stellar Quest Bounties is an extension of the traditional, series based [Stellar
 
 Additional to this Stellar Quest Bounties provides an avenue for directing smaller amounts of XLM towards more granular, achievable, back-burner tasks as determined by SDF, Stellar partners and you! the Stellar Community.
 
+##### Table of Contents
+
+- [Stellar Quest Bounty Structure](#stellar-quest-bounty-structure)
+  - [Hunters](#hunters)
+  - [Reviewers](#reviewers)
+- [Bounty Types](#bounty-types)
+  - [Continuous](#continuous)
+  - [Capped ({x})](#capped-x)
+  - [Competitive](#competitive)
+- [Flow for Bounty Hunters](#flow-for-bounty-hunters)
+- [Flow for Bounty Reviewers](#flow-for-bounty-reviewers)
+
 ## Stellar Quest Bounty Structure
 
 Stellar Quest Bounties are broken up into two distinct groups, well really three but primarily two. Hunters and Reviewers. The names are pretty self explanatory with Hunters being those doing the work of achieving the spec of the bounty and Reviewers auditing that work to ensure it meets the standard and actually accomplishes the task sufficiently. The unique bit here is that both Hunters and Reviewers get paid in this system, not just those doing the bounty work.
